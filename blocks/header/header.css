@@ -4,10 +4,8 @@
   width: 100%;
   min-height: 600px;
   max-height: 756px;
-  font-family: 'Helvetica Neue', 'Arial', 'sans-serif';
   display: flex;
   position: relative;
   background-color: #f2f2f2;
   overflow: hidden;
-  /* выше установили ограничения для секции */
 }

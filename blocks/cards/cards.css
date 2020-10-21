@@ -1,9 +1,10 @@
 .cards {
- font-family: 'Helvetica Neue', 'Arial', 'sans-serif';
- color: #000;
- width: 920px;
- display: grid;
- grid-template-columns: repeat(3, 240px);
- column-gap: 100px;
+  color: #000;
+  width: 920px;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(3, 240px);
+  column-gap: 100px;
 }
-
