@@ -2,8 +2,6 @@
  font-family: 'Helvetica Neue', 'Arial', 'sans-serif';
  color: #000;
  width: 920px;
- display: flex;
- flex-wrap: wrap;
  display: grid;
  grid-template-columns: repeat(3, 240px);
  column-gap: 100px;
